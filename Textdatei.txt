@@ -6,7 +6,7 @@ Grün
 Blau
 Hellblau
 Dunkelblau
-Gelb
 Magenta
 Violett
+
 Sind alles tolle Farben.
